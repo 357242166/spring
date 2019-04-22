@@ -1,4 +1,4 @@
-from: 123
+from: 1234
 server:
   port: 8889
 key: foo version
