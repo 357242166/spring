@@ -1,0 +1,13 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/357242166/spring.git
+          searchPaths: /
+          username: 357242166
+          password: 95774328try
